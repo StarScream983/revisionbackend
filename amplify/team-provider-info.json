@@ -1,0 +1,23 @@
+{
+  "revbackenv": {
+    "awscloudformation": {
+      "AuthRoleName": "amplify-revisionbackend-revbackenv-480ae-authRole",
+      "UnauthRoleArn": "arn:aws:iam::767397934858:role/amplify-revisionbackend-revbackenv-480ae-unauthRole",
+      "AuthRoleArn": "arn:aws:iam::767397934858:role/amplify-revisionbackend-revbackenv-480ae-authRole",
+      "Region": "us-east-2",
+      "DeploymentBucketName": "amplify-revisionbackend-revbackenv-480ae-deployment",
+      "UnauthRoleName": "amplify-revisionbackend-revbackenv-480ae-unauthRole",
+      "StackName": "amplify-revisionbackend-revbackenv-480ae",
+      "StackId": "arn:aws:cloudformation:us-east-2:767397934858:stack/amplify-revisionbackend-revbackenv-480ae/5c0a4c00-22ad-11ef-9d05-068eca665c0f",
+      "AmplifyAppId": "do78kjteay2uj"
+    },
+    "categories": {
+      "api": {
+        "revisionbackend": {}
+      },
+      "function": {
+        "revbackexpress": {}
+      }
+    }
+  }
+}
